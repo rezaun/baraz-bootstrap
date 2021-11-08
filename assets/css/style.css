@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar ul li a{
+    font-size: 12px;
+    padding: 0px 17px;
+}
+.search-bar{
+    background-color: #f5f5f5;
+    padding: 13px 19px;;
+    border: none;
+    outline: none;
+    margin-left: 20px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+.search-container button{
+    outline: none;
+    border: none;
+    background-color: #f57224;
+    margin-left: -5px;
+    color: #fff;
+    border-radius: 2px;
+}
+.top-banner{
+    background-color: #f7f7f7;
+}
